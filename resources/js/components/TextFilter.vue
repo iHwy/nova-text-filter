@@ -8,7 +8,7 @@
             <div class="flex relative">
                 <input
                     :dusk="`${filter.name}-filter-text`"
-                    class="block w-full form-control-sm form-input form-input-bordered"
+                    class="block w-full form-control form-input form-input-bordered"
                     type="text"
                     :placeholder="placeholder"
                     :value="value"
